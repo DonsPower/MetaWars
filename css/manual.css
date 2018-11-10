@@ -1,0 +1,142 @@
+body{
+  font: 15px Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color: #137510 ;
+}
+
+
+.padre{
+background-color: #1dd50f;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #104d75 ;
+  /* IMPORTANTE */
+  text-align: center;
+  color: #fff;
+}
+.divSuperior{
+  margin-left: 125px;
+  margin-right: 300px;
+    width:  800px;
+    background:#137510;
+    padding: 10px;
+    overflow: hidden;
+}
+.divIzq{
+  float: left;
+  padding: 10px;
+  color: #fff;
+  width: 200px;
+  margin: 40px;
+  min-height:225px;
+  background:url('../img/logo1.png') no-repeat 0px 0px;
+  text-align:center;
+}
+.divDer{
+float: right;
+text-align: center;
+padding: 10px;
+color: #fff;
+width: 300px;
+margin: 70px;
+background:#137510;
+font-size: 16px;
+}
+.divInfSuperior{
+  margin-left: 255px;
+  margin-right: 350px;
+    width:  700px;
+    background:#137510;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.divInfIzq{
+  float:left;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+  width: 300px;
+  height: 150px;
+  margin: 5px;
+  background:#137510;
+  font-size: 16px;
+
+}
+.divInfDer{
+  float: right;
+  padding: 10px;
+  color: #fff;
+  width: 200px;
+  margin: 5px;
+  min-height:225px;
+  background:url('../img/esccudo.png') no-repeat 0px 0px;
+  text-align:center;
+}
+.cuadro{
+  margin-top: 10px;
+  margin-left: 180px;
+  width: 530px;
+  height: 200px;
+  background:#35424a;
+  border-radius: 30px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.cuadroAdentro{
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: #35424a;
+    width: 500px;
+    height: 190px;
+    color: #fff;
+    font-size: 20px;
+}
+.cuadroAdentro li{
+  text-align: center;
+}
+.colortext{
+  font-size: 30px;
+}
+.colorDer{
+  float: right;
+  font-size: 30px;
+
+}
+.texto1{
+  margin-left: 60px;
+  font-size: 20px;
+  color: #fff;
+}
+.divAtributos{
+  margin-top: 10px;
+  margin-left: 100px;
+  width: 800px;
+  height: 400px;
+  background:url('../img/descripcionGuerrero.png') no-repeat 0px 0px;
+  border-radius: 10px;
+}
+.text2{
+  margin-left: 850px;
+  font-size: 20px;
+  color: #fff;
+}
+.divImagMuestra{
+  margin-top: 50px;
+  margin-left: 320px;
+  width: 800px;
+  height: 450px;
+  background:url('../img/descripcionDfensor.png') no-repeat 0px 0px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.divComoSeJuega{
+  margin-left: 250px;;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  width: 800px;
+  height: 400px;
+  background: #000;
+}
