@@ -100,10 +100,10 @@ header a:hover{
   margin-left: 125px;
   margin-right: 150px;
   background:url('../img/Captura.png') no-repeat 0px 0px;
-border-radius:90px;
+border-radius:50px;
   text-align:center;
   border: 3px solid  #a21b06 ;
-
+width: 72%
 }
 
 #cabecera h1{

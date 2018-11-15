@@ -1,3 +1,4 @@
+
 .boton_personalizado{
   text-decoration: none;
   padding: 30px;
@@ -23,7 +24,7 @@
   border: 2px solid #fff;
 }
 .divderlogin{
-  margin-left: 300px;
+  margin-left: 500px;
   width: 250px;
   height: 300px;
   background:#137510;
@@ -42,7 +43,7 @@
 .divizqlogin{
 
   margin: 50PX;
-  width: 250px;
+  width: 350px;
   height: 300px;
   background:#137510;
   float: left;
@@ -53,4 +54,131 @@
 }
 .centradoder{
   margin-top: 120px;
+}
+.imagenSupUser{
+  margin-left: 10%;
+  width: 80%;
+  height: 70%;
+  background-color: #35424a;
+  border-radius: 50%;
+}
+
+.divderUser{
+  margin-left: 300px;
+  width: 250px;
+  height: 300px;
+  background:#137510;
+  float: left;
+  margin: 50PX;
+  border-radius: 1000px;
+}
+.divmidUser{
+
+  width: 300px;
+  height: 380px;
+  background:url('../img/menu/cartas.png') no-repeat 0px 0px;
+  float: left;
+border-radius: 1000px;
+  margin-top: 5px;
+}
+.divizqUser{
+
+  margin: 50PX;
+  width: 250px;
+  height: 300px;
+  background:#b72711;
+  float: left;
+  border-radius: 1000px;
+}
+.id{
+  border-radius: 100px;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+   padding: 10px;
+   font-weight: 600;
+   font-size: 20px;
+   color: #fff;
+   background-color: #1883ba;
+   border-radius: 6px;
+   border: 2px solid #0016b0;
+
+
+}
+.id:hover{
+  color: #fff;
+    background-color:  #af3825  ;
+}
+.cuadrito2{
+
+  height: 10%;
+  width: 100%;
+  background-color: green;
+  border-radius: 100px;
+}
+.divJuegoEscogeGenSup{
+  width: 95%;
+  height: 60%;
+  margin-left: 3%;
+  background-color: green;
+  margin-top: 10px;
+
+}
+.Divjuego1{
+  margin-left: 80px;
+  width: 150px;
+  height: 220px;
+  background:#137510;
+  float: left;
+  margin: 50PX;
+  border-radius: 0px 0px 100px 100px;
+  overflow: hidden;
+
+}
+.Divjuego2{
+  margin-left: 80px;
+  width: 150px;
+  height: 220px;
+  background:#137510;
+  float: left;
+  margin: 50PX;
+  border-radius: 0px 0px 100px 100px;
+  overflow: hidden;
+
+}
+.Divjuego3{
+  margin-left: 80px;
+width: 150px;
+  height: 220px;
+  background:#137510;
+  float: left;
+  margin: 50PX;
+  border-radius: 0px 0px 100px 100px;
+overflow: hidden;
+}
+.Divjuego4{
+  margin-left: 80px;
+  width: 150px;
+  height: 220px;
+  background:#137510;
+  float: left;
+  margin: 50PX;
+  border-radius: 0px 0px 100px 100px;
+  overflow: hidden;
+}
+.Divjuego5{
+  margin-left: 80px;
+  width: 150px;
+  height: 220px;
+  background:#137510;
+  float: left;
+  margin: 50PX;
+  border-radius: 0px 0px 100px 100px;
+  overflow: hidden;
+
+}
+.botoncentrao{
+  width: 300px;
+  height: 70px;
+  margin-left: 38%;
 }

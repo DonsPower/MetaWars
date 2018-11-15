@@ -1,4 +1,6 @@
-
+<?php
+include 'conexion/conexionInicial.php';
+ ?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -27,8 +29,9 @@
     <section id="boletin">
       <div class="contenedor">
         <h1>Introduce la clave de acceso</h1>
-        <form>
-          <input type="email" placeholder="Ingrese la clave...">
+        <form method="post" action="src/admin.php">
+
+          <input name="email1" type="password" placeholder="Ingrese la clave...">
           <button type="submit" class="boton1">Inicia</button>
         </form>
       </div>
